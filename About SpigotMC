@@ -1,0 +1,32 @@
+About SpigotMC
+
+The leading community for Minecraft server owners and content creators.
+
+
+What is SpigotMC?
+Founded in 2012, SpigotMC.org is is home to the community behind the biggest Minecraft server software projects and provides a place for everyone involved with Minecraft servers to connect with each other whether they seeking help and support or sharing and showcasing their work. We provide a web forum, chat room and wiki for providing support as well as project hosting for content creators and hope that you too will become involved in this extensive and growing community of more than 300,000 members.
+
+What Software Do We Provide?
+The SpigotMC team works hard to support and maintain several major pieces of software for use when running or developing a Minecraft server. All of our software is completely free and open source, available on either our Stash or GitHub. We are supported by voluntary donations which we hope you will also contribute to one day.
+
+Spigot - Install
+As suggested by the name, Spigot is the original and most widely used of our software. It is a modified Minecraft server based on CraftBukkit which provides additional performance optimizations, configuration options and features, whilst still remaining compatible with all existing plugins and consistent with Vanilla Minecraft game mechanics.
+
+There are over 150 improvements present in only in Spigot, including BungeeCord support; configuration of many internal server values such as crop growth rates, hunger, entity tracking, map seeds; enhanced watchdog and timings profiling to catch plugin issues; further configuration to heavy elements such as entity activation and hoppers; rewritten chunk loading, unloading and saving; and some useful API additions for developers.
+
+If you are really keen you can check out the complete list of patches here, but really the best way to find out all that Spigot has to offer is to simply try it!
+
+BungeeCord - Install
+BungeeCord is a completely original SpigotMC creation which acts as a proxy allowing you to link many different Minecraft servers together and teleport between them in any way you choose, whether that be commands, portals, inventory menus or something unique of your own creation. With BungeeCord there is no need to limit yourself to one server, instead you can combine tens or even hundreds of servers of different gamemodes right around the globe. BungeeCord powers all of the top Minecraft networks with proven scalability of more than 40,000 players and enables you to make the most of your server resources. It also has a complete plugin API which developers can use to write plugins such as chat or parties that function across your entire network.
+
+CraftBukkit
+When the Bukkit.org project ceased operation in Q3 2014, the SpigotMC team took over providing continued support and updates to this important software with a rich legacy. CraftBukkit is a modified version of the Vanilla Minecraft Server which allows it to run Bukkit plugins. The main goal of this project is to produce a server as close to Vanilla as possible, barring the addition of plugin support. That being said CraftBukkit still retains some useful configurability and optimizations such as asynchronous chunk loading, and also fixes for some critical Vanilla bugs or exploits. All installs of Spigot via BuildTools will also generate a CraftBukkit jar file in case you wish to use this over Spigot (although we hope you will find no reason to).
+
+Bukkit
+In addition to CraftBukkit, we also now maintain Bukkit which is the API that developers can use to make server plugins. Over the years we have added many new features and changes to support newer Minecraft versions, but much of the older Bukkit documentation such as the Plugin Tutorial is still extremely relevant for developers just getting started. More information about using the API can also be found under the Spigot wiki section.
+
+Conclusion
+Now that you know a bit more about SpigotMC.org and our software we hope that you will decide to use it and become involved in our forums and chat communities. If you are ever in need of assistance, just ask in the appropriate section and one of our many members will be more than happy to assist.
+
+Brochures / Infographics
+The following brochures were produced for our booth at MINECON 2015. The numerical figures are a bit outdated (all the numbers are bigger now!), but they still provide an excellent reference for Spigot and BungeeCord.
