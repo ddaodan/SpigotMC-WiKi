@@ -1,5 +1,6 @@
-# SpigotMC-WiKi
+# SpigotMC WiKi
 SpigotMC Wiki 翻译工作
 
-翻译Spigot WiKi项目。
-欢迎提交更改。
+本项目为翻译Spigot WiKi。
+欢迎你提交你的翻译内容。
+https://www.spigotmc.org/wiki/index/
